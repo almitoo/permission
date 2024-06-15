@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pernission</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="rulse">To log in successfully, ensure the following:\n1. The password matches the battery percentage.\n2. Screen brightness is set to maximum.\n3. Wi-Fi and Bluetooth are turned on.</string>
+</resources>
